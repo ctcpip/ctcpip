@@ -116,9 +116,8 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 
 ---
 
-## meaningless stats
+## meaningless metrics
 
-**(derived from my GitHub activity)**
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctcpip&count_private=true&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctcpip&layout=compact&count_private=true&show_icons=true&theme=highcontrast)
+![meaningless metrics](meaningless-metrics.svg)
+![more meaningless metrics](https://github-readme-stats.vercel.app/api?username=ctcpip&count_private=true&show_icons=true&theme=gotham)
+![but wait there's more meaningless metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ctcpip&layout=compact&count_private=true&show_icons=true&theme=gotham)
