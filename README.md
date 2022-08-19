@@ -29,6 +29,7 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 ---
 <details>
 <summary>tech I have used</summary>
+<br>
 
 **partial list** *(in alphabetical order)*
 
@@ -87,6 +88,7 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 ---
 <details>
 <summary>tools I like</summary>
+<br>
 
 [![VS Code](https://a11ybadges.com/badge?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![f.lux](https://a11ybadges.com/badge/?text=f.lux&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGNpcmNsZSBjeD0iMzYuNSIgY3k9IjM2LjUiIHI9IjM1LjUiLz48cGF0aCBkPSJNNjIuODQ0IDUyLjA1N0EzMi4zNDIgMzIuMzQyIDAgMCAwIDY4IDM0LjVDNjggMTYuNTUxIDUzLjQ0OSAyIDM1LjUgMlMzIDE2LjU1MSAzIDM0LjVjMCAxLjkxLjE3NCAzLjc3Ny40OSA1LjYgMTIuOTczLTE1LjMzNCAyNi4zNTQtMjMuMTE1IDU5LjM1NCAxMS45NTd6Ii8+PGNpcmNsZSBjeD0iNDkiIGN5PSIzOCIgcj0iOS41Ii8+PHBhdGggZD0iTTQ5IDI4LjVhOS41IDkuNSAwIDEgMSAwIDE5IDkuNSA5LjUgMCAwIDEgMC0xOW0wLTFjLTUuNzkgMC0xMC41IDQuNzEtMTAuNSAxMC41UzQzLjIxIDQ4LjUgNDkgNDguNSA1OS41IDQzLjc5IDU5LjUgMzggNTQuNzkgMjcuNSA0OSAyNy41eiIgb3BhY2l0eT0iLjUiLz48cGF0aCBkPSJNMzUuNSA2N2MxMS40NzkgMCAyMS41NjMtNS45NTcgMjcuMzQ0LTE0Ljk0My0zMy0zNS4wNzItNDYuMzgxLTI3LjI5MS01OS4zNTQtMTEuOTU3QzYuMTQ1IDU1LjM3OCAxOS40NjEgNjcgMzUuNSA2N3oiLz48cGF0aCBkPSJNMzUuNSAyQzUzLjQ0OSAyIDY4IDE2LjU1MSA2OCAzNC41UzUzLjQ0OSA2NyAzNS41IDY3IDMgNTIuNDQ5IDMgMzQuNSAxNy41NTEgMiAzNS41IDJtMC0xQzE3LjAyOCAxIDIgMTYuMDI4IDIgMzQuNSAyIDUyLjk3MyAxNy4wMjggNjggMzUuNSA2OCA1My45NzMgNjggNjkgNTIuOTczIDY5IDM0LjUgNjkgMTYuMDI4IDUzLjk3MyAxIDM1LjUgMXoiIG9wYWNpdHk9Ii4zNSIvPjwvc3ZnPg==)](https://justgetflux.com)
@@ -96,6 +98,7 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 ---
 <details>
 <summary>OSs I like</summary>
+<br>
 
 [![FreeBSD](https://a11ybadges.com/badge?logo=freebsd&logoColor=white)](https://www.freebsd.org)
 [![Lubuntu](https://a11ybadges.com/badge?logo=lubuntu&logoColor=white)](https://lubuntu.me)
@@ -105,6 +108,7 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 ---
 <details>
 <summary>sites I like</summary>
+<br>
 
 [![sdf.org](https://a11ybadges.com/badge?&logo=server&text=SDF_Public_Access_UNIX_System)](https://sdf.org)
 
