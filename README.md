@@ -26,6 +26,12 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 [![timezilla](https://a11ybadges.com/badge?logo=clock&text=timezilla)](https://github.com/ctcpip/timezilla)
 [![notifize](https://a11ybadges.com/badge?logo=message-square&text=notifize)](https://github.com/ctcpip/notifize)
 
+## meaningless metrics
+
+![meaningless metrics](meaningless-metrics.svg)
+![more meaningless metrics](https://github-readme-stats.vercel.app/api?username=ctcpip&count_private=true&show_icons=true&theme=gotham)
+![but wait there's more meaningless metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ctcpip&layout=compact&count_private=true&show_icons=true&theme=gotham)
+
 ---
 <details>
 <summary>tech I have used</summary>
@@ -115,9 +121,3 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 </details>
 
 ---
-
-## meaningless metrics
-
-![meaningless metrics](meaningless-metrics.svg)
-![more meaningless metrics](https://github-readme-stats.vercel.app/api?username=ctcpip&count_private=true&show_icons=true&theme=gotham)
-![but wait there's more meaningless metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ctcpip&layout=compact&count_private=true&show_icons=true&theme=gotham)
