@@ -17,3 +17,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_ignored: forker, member, stargazer, gister, follower, automator, infographile
+          committer_message: "🦆 update metrics 🦆"
