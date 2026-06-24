@@ -5,11 +5,13 @@ I'm [Chris de Almeida](https://SoftwareChris.com), a programmer at [IBM](https:/
 I also do other things:
 
 - Co-chair at [TC39](https://tc39.es)
+- Co-chair at [TC54](https://tc54.org/)
+- Co-chair at [WinterTC (TC55)](https://wintertc.org/)
 - [Cross Project Council](https://github.com/openjs-foundation/cross-project-council), [Standards](https://github.com/openjs-foundation/standards), and [Security](https://github.com/openjs-foundation/security-collab-space/) at the [OpenJS Foundation](https://openjsf.org/)
-- Member of the [OpenJS Foundation CVE Numbering Authority (CNA)](https://cna.openjsf.org/)
+- Coordinator at the [OpenJS Foundation CVE Numbering Authority (CNA)](https://cna.openjsf.org/)
 - Technical Committee and Security Triage for [Express](https://expressjs.com/)
 - Contributor at [Vulnerability Disclosures WG](https://github.com/ossf/wg-vulnerability-disclosures) and [Best Practices WG](https://github.com/ossf/wg-best-practices-os-developers) of the [OpenSSF](https://openssf.org/)
-- Delegate at [TC54](https://tc54.org/) and [WinterTC (TC55)](https://wintertc.org/)
+
 
 ## find me
 
